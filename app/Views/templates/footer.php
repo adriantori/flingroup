@@ -8,7 +8,7 @@
             <h3>FLINGROUP</h3>
             <p>
             Jl. Slamet no. 8, Ketabang, Genteng, Surabaya, Jawa Timur 60272 <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
+              <strong>Phone:</strong> +62 817-9323-323<br>
               <strong>Email:</strong> global@flingroup.com<br>
             </p>
           </div>

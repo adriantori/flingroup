@@ -35,23 +35,13 @@
         <div class="row content">
           <div class="col-lg-6">
             <p>
-              Berdiri pada April 2023, perusahaan berfokus pada ....
+            Merupakan perusahaan yang menyediakan jasa dalam pengelolaan gudang distribusi segala macam buah dan sayuran.
             </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Supplier buah dan sayuran</li>
-              <li><i class="ri-check-double-line"></i> Bekerjasama dengan Gemilang Alam Sadani</li>
-              <li><i class="ri-check-double-line"></i> Memiliki sistem Cold Storage untuk pematangan</li>
-            </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-             Rangkuman tentang javanesia Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.</br>
-
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
+            Berdiri sejak 2023. Javanesia Gemilang Indonesia adalah sebuah perusahaan yang berkedudukan di Pasuruan, Jawa Timur. Perusahaan tersebut merupakan perpaduan kerjasama antara Gemilang Alam Sadana dan Javanesia Freshtama Indonesia untuk mengelola gudang
+                                                    distribusi buah dan sayuran dengan maksud untuk membangun dan memegang pasar buah dan sayuran Indonesia Timur.
             </p>
           </div>
         </div>
@@ -66,7 +56,13 @@
         <div class="row">
           <div class="col-lg-9 text-center text-lg-start">
             <h3>Vision & Mission</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h4>Vision</h4>
+                                                <p>
+                                                    Mengelola gudang - gudang distribusi buah dan sayuran dan membangun serta memegang pasar buah dan sayuran yang berkualitas dengan fondasi internal yang kokoh dan hubungan eksternal terpercaya.
+                                                </p>
+                                                <h4>Mission</h4>
+                                                <p>Menjadikan Javanesia Gemilang Indonesia sebagai pengelola gudang distribusi buah dan sayuran terpercaya dan membangun serta memegang pasar buah dan sayuran berkualitas.
+                                                </p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
           </div>
@@ -80,39 +76,31 @@
 
         <div class="section-title">
           <h2>Product & Services</h2>
-          <p>....</p>
+          <p>Penjualan Buah & Sayur</p>
         </div>
 
         <div class="row">
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-xl-4 col-md-12 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Pengelolaan Gudang</a></h4>
+              <p>Menyediakan jasa dalam mengelola gudang distribusi buah dan sayuran.</p>
             </div>
           </div>
 
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+          <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Penjualan</a></h4>
+              <p>Menjual segala macam buah dan sayuran.</p>
             </div>
           </div>
 
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+          <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">Distributor</a></h4>
+              <p>Menerima segala macam buah dan sayuran berkualitas.</p>
             </div>
           </div>
 
@@ -211,8 +199,6 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
 
         <div class="row">
 
