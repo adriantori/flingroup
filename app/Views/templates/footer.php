@@ -8,8 +8,8 @@
             <h3>FLINGROUP</h3>
             <p>
             Jl. Slamet no. 8, Ketabang, Genteng, Surabaya, Jawa Timur 60272 <br><br>
-              <strong>Phone:</strong> +62 817-9323-323<br>
               <strong>Email:</strong> global@flingroup.com<br>
+              <strong>Phone:</strong> +62 817-9323-323<br>
             </p>
           </div>
 
@@ -51,14 +51,14 @@
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
-        &copy; Copyright <strong><span>Adri Antori</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>FLINGROUP</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed & Created by <strong><span>Adri Antori</span></strong></a>
       </div>
     </div>
   </footer><!-- End Footer -->

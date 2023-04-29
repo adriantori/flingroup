@@ -73,19 +73,18 @@
                     <div class="row content">
                         <div class="col-lg-6">
                             <p>
-                                Global Artha Sentosa, Holding Company
+                                Berdiri sejak tahun 2017. Bergerak di bidang:
                             </p>
                             <ul>
                                 <li><i class="ri-check-double-line"></i> Business Development & Management</li>
-                                <li><i class="ri-check-double-line"></i> Agrikultur Buah dan Sayuran</li>
-                                <li><i class="ri-check-double-line"></i> Distribusi Buah dan Sayuran</li>
+                                <li><i class="ri-check-double-line"></i> Agrikultur Buah & Sayuran</li>
+                                <li><i class="ri-check-double-line"></i> Distribusi Buah & Sayuran</li>
                             </ul>
                         </div>
                         <div class="col-lg-6 pt-4 pt-lg-0">
-                            <p>
-                                Global Artha Sentosa adalah sebuah perusahaan Indonesia yang berkedudukan di Surabaya, Jawa Timur. Global Artha Sentosa merupakan Holding Company yang menyediakan jasa dalam mengembangkan dan mengelola usaha terutama di bagian administrasi dan management.
-                                Perusahaan tersebut telah mengelola administrasi dan management perusahaan Gemilang Alam Sadana yang bergerak di bidang agrikultur buah dan sayuran sejak tahun 2020 dan mengembangkan perusahaan Javanesia Gemilang Indonesia
-                                bersama dengan perusahaan Javanesia Freshtama Indonesia yang bergerak di bidang distribusi buah dan sayuran sejak tahun 2023.
+                            <p> Global Artha Sentosa adalah sebuah perusahaan Indonesia yang berkedudukan di Surabaya, Jawa Timur. Global Artha Sentosa merupakan Holding Company yang menyediakan jasa dalam mengembangkan dan mengelola usaha terutama di bagian
+                                administrasi dan management. Perusahaan tersebut telah mengelola administrasi dan management perusahaan Gemilang Alam Sadana yang bergerak di bidang agrikultur buah dan sayuran sejak tahun 2020 dan mengembangkan perusahaan
+                                Javanesia Gemilang Indonesia bersama dengan perusahaan Javanesia Freshtama Indonesia yang bergerak di bidang distribusi buah dan sayuran sejak tahun 2023.
                             </p>
                         </div>
                     </div>
@@ -99,10 +98,9 @@
 
                             <div class="row">
                                 <div class="col-lg-9 text-center text-lg-start">
-                                    <h3>Vision & Mission</h3>
-                                    <h3>Vision</h3>
+                                    <h3>VISION</h3>
                                     <p> Mengembangkan dan mengelola segala usaha yang berada di naungan Global Artha Sentosa untuk memiliki administrasi dan management yang terdepan dengan fondasi internal yang kokoh dan hubungan eksternal terpercaya. </p>
-                                    <h3>Mission</h3>
+                                    <h3>MISSION</h3>
                                     <p>
                                         Menjadikan Global Artha Sentosa sebagai pegangan segala perusahaan yang dapat dijamin untuk membangun dan menjaga berjalannya administrasi dan management perusahaan dengan sistem yang mudah dimengerti, berkualitas, dan terlindungi.
                                     </p>
@@ -134,7 +132,7 @@
                                 <div class="accordion-list">
                                     <ul>
                                         <li>
-                                            <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> History <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                                            <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> HISTORY <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                                             <div id="accordion-list-1" class="collapse" data-bs-parent=".accordion-list">
                                                 <p>
                                                     Berdiri sejak 2020. Gemilang Alam Sadana adalah sebuah perusahaan Indonesia dengan kantor utama berkedudukan di Surabaya, Jawa Timur. Perusahaan tersebut beroperasional di Buleleng, Bali dimana telah menanam dan mengelola segala macam buah dan sayuran.
@@ -143,14 +141,14 @@
                                         </li>
 
                                         <li>
-                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Vision & Mission <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> VISION & MISSION <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                                             <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
                                                 <br/>
-                                                <h4>Vision</h4>
+                                                <h4>VISION</h4>
                                                 <p>
                                                     Menanam dan mengelola segala macam buah dan sayuran berkualitas dengan fondasi internal yang kokoh dan hubungan eksternal terpercaya.
-                                                </p>
-                                                <h4>Mission</h4>
+                                                </p><br/>
+                                                <h4>MISSION</h4>
                                                 <p>
                                                     Menjadikan Gemilang Alam Sadana sebagai pegangan pasar buah dan sayuran yang dapat dijamin untuk menyediakan buah dan sayuran yang berkuantitas dan berkualitas.
                                                 </p>
@@ -158,17 +156,13 @@
                                         </li>
 
                                         <li>
-                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> Services<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                                            <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
-                                                <p>
-                                                    Menyediakan jasa dalam menanam dan mengelola segala macam buah dan sayuran.
-                                                </p>
-                                                <p>
-                                                    Menjual segala macam buah dan sayuran.
-                                                </p>
-                                                <p>
-                                                    Menerima bibit dan bahan berkualitas.
-                                                </p>
+                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> SERVICES<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                                            <div id="accordion-list-3" class="collapse row content" data-bs-parent=".accordion-list">
+                                                <ul>
+                                                    <li style='list-style-type: square; padding:5px'><p>Menyediakan jasa dalam menanam dan mengelola segala macam buah dan sayuran.</p></li>
+                                                    <li style='list-style-type: square; padding:5px'><p>Menjual segala macam buah dan sayuran.</p></li>
+                                                    <li style='list-style-type: square; padding:5px'><p>Menerima bibit dan bahan berkualitas.</p></li>
+                                                </ul>
                                             </div>
                                         </li>
 
@@ -197,14 +191,14 @@
                                         <strong>Fresh Fruit Distribution Company</strong></h3>
                                     <p>
                                         Merupakan perusahaan yang menyediakan jasa dalam pengelolaan gudang distribusi segala macam buah dan sayuran.
-                                    </p>
+                                    </p><br>
                                 </div>
 
-                                <div class="accordion-list">
-                                    <ul>
+                                <div class="accordion-list list-2">
+                                    <ul style="margin-left:-25px">
                                         <li>
-                                            <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> History <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                                            <div id="accordion-list-1" class="collapse" data-bs-parent=".accordion-list">
+                                            <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-a1"><span>01</span> HISTORY <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                                            <div id="accordion-list-a1" class="collapse" data-bs-parent=".list-2">
                                                 <p>
                                                     Berdiri sejak 2023. Javanesia Gemilang Indonesia adalah sebuah perusahaan yang berkedudukan di Pasuruan, Jawa Timur. Perusahaan tersebut merupakan perpaduan kerjasama antara Gemilang Alam Sadana dan Javanesia Freshtama Indonesia untuk mengelola gudang
                                                     distribusi buah dan sayuran dengan maksud untuk membangun dan memegang pasar buah dan sayuran Indonesia Timur.
@@ -213,30 +207,28 @@
                                         </li>
 
                                         <li>
-                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Vision & Mission <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                                            <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
-                                                <h4>Vision</h4>
+                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-a2" class="collapsed"><span>02</span> VISION & MISSION <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                                            <div id="accordion-list-a2" class="collapse" data-bs-parent=".list-2">
+                                                <br>
+                                                <h4>VISION</h4>
                                                 <p>
                                                     Mengelola gudang - gudang distribusi buah dan sayuran dan membangun serta memegang pasar buah dan sayuran yang berkualitas dengan fondasi internal yang kokoh dan hubungan eksternal terpercaya.
-                                                </p>
-                                                <h4>Mission</h4>
+                                                </p><br/>
+                                                <h4>MISSION</h4>
                                                 <p>Menjadikan Javanesia Gemilang Indonesia sebagai pengelola gudang distribusi buah dan sayuran terpercaya dan membangun serta memegang pasar buah dan sayuran berkualitas.
                                                 </p>
                                             </div>
                                         </li>
 
                                         <li>
-                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> Services<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                                            <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
-                                                <p>
-                                                    Menyediakan jasa dalam mengelola gudang distribusi buah dan sayuran.
-                                                </p>
-                                                <p>
-                                                    Menjual segala macam buah dan sayuran.
-                                                </p>
-                                                <p>
-                                                    Menerima segala macam buah dan sayuran berkualitas.
-                                                </p>
+                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-a3" class="collapsed"><span>03</span> SERVICES<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                                            <div id="accordion-list-a3" class="collapse" data-bs-parent=".list-2">
+                                                <br>
+                                                <ul style="margin-left:15px">
+                                                    <li style='list-style-type: square; padding:5px'><p>Menyediakan jasa dalam mengelola gudang distribusi buah dan sayuran.</p></li>
+                                                    <li style='list-style-type: square; padding:5px'><p>Menjual segala macam buah dan sayuran.</p></li>
+                                                    <li style='list-style-type: square; padding:5px'><p>Menerima segala macam buah dan sayuran berkualitas.</p></li>
+                                                </ul>
                                             </div>
                                         </li>
 
@@ -312,7 +304,7 @@
                         <div class="container" data-aos="fade-up">
 
                             <div class="section-title">
-                                <h2>Products</h2>
+                                <h2>SERVICES</h2>
                             </div>
 
                             <div class="row">
@@ -463,7 +455,7 @@
                     <!-- End Portfolio Section -->
 
                     <!-- ======= Team Section ======= -->
-                    <section id="team" class="team section-bg">
+                    <!-- <section id="team" class="team section-bg">
                         <div class="container" data-aos="fade-up">
 
                             <div class="section-title">
@@ -544,7 +536,7 @@
                             </div>
 
                         </div>
-                    </section>
+                    </section> -->
                     <!-- End Team Section -->
 
                     <!-- ======= Pricing Section ======= 
@@ -694,14 +686,13 @@
                                             <i class="bi bi-envelope"></i>
                                             <h4>Email:</h4>
                                             <p>
-                                                global@flingroup.com<br/> gemilang@flingroup.com
-                                                <br/> javanesia@flingroup.com
+                                                global@flingroup.com
                                             </p>
                                         </div>
 
                                         <div class="phone">
                                             <i class="bi bi-phone"></i>
-                                            <h4>Call:</h4>
+                                            <h4>Phone:</h4>
                                             <p>+62 817-9323-323</p>
                                         </div>
                                     </div>
