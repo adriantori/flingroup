@@ -4,13 +4,12 @@
 
 
 <main id="main">
-  <section id="hero" class="d-flex align-items-center">
+  <section id="hero" class="d-flex align-items-center green">
 
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1"
-          data-aos="fade-up" data-aos-delay="200">
-          <h1>JAVANESIA GEMILANG INDONESIA</h1>
+        <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+          <h1 class="green">PT. JAVANESIA GEMILANG INDONESIA</h1>
           <h2>Fresh Fruit Distribution Company</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
@@ -29,18 +28,14 @@
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
-        <h2>About Us</h2>
+        <h2 class="green">About Our Company</h2>
       </div>
 
       <div class="row content">
         <div class="col-lg-12 pt-4 pt-lg-0">
           <p>
-            Merupakan perusahaan yang menyediakan jasa dalam pengelolaan gudang distribusi segala macam buah dan
-            sayuran yang berdiri sejak 2023. Javanesia Gemilang Indonesia adalah sebuah perusahaan yang berkedudukan di Pasuruan,
-            Jawa Timur. Perusahaan tersebut merupakan perpaduan kerjasama antara Gemilang Alam Sadana dan Javanesia
-            Freshtama Indonesia untuk mengelola gudang
-            distribusi buah dan sayuran dengan maksud untuk membangun dan memegang pasar buah dan sayuran Indonesia
-            Timur.
+            Merupakan perusahaan distribusi berbagai macam buah yang berdiri sejak 2023.
+            Perpaduan kerjasama antara PT. GEMILANG ALAM SADANA & PT. JAVANESIA FRESTAMA INDONESIA untuk mengelola distribusi buah dengan maksud untuk membangun dan memegang pasar buah dan sayuran Indonesia Timur & Internasional.
           </p>
         </div>
       </div>
@@ -54,14 +49,13 @@
 
         <div class="row">
           <div class="col-lg-9 text-center text-lg-start">
-            <h3>VISION</h3>
+            <h3>VISI</h3>
             <p>
-              Mengelola gudang - gudang distribusi buah dan sayuran dan membangun serta memegang pasar buah dan sayuran
-              yang berkualitas dengan fondasi internal yang kokoh dan hubungan eksternal terpercaya.
+              Mengelola distribusi buah dan membangun serta memegang pasar buah yang berkualitas dengan fondasi internal yang kokoh dan hubungan eksternal terpercaya.
             </p>
-            <h3>MISSION</h3>
-            <p>Menjadikan Javanesia Gemilang Indonesia sebagai pengelola gudang distribusi buah dan sayuran terpercaya
-              dan membangun serta memegang pasar buah dan sayuran berkualitas.
+            <h3>MISI</h3>
+            <p>
+              Menjadikan JAVANESIA GEMILANG INDONESIA sebagai pengelola distribusi buah terpercaya dan membangun serta memegang pasar buah berkualitas.
             </p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
@@ -75,29 +69,27 @@
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
-        <h2>Services</h2>
+        <h2 class="green">Services</h2>
       </div>
 
       <div class="row">
-        <div class="col-xl-4 col-md-12 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+        <div class="col-xl-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
           <div class="icon-box">
-            <div class="icon"><i class="bx bxl-dribbble"></i></div>
+            <div class="icon"><i class="bx bx-file"></i></div>
             <h4><a href="">Pengelolaan Gudang</a></h4>
             <p>Menyediakan jasa dalam mengelola gudang distribusi buah dan sayuran.</p>
           </div>
         </div>
-
-        <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+        <div class="col-xl-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
           <div class="icon-box">
             <div class="icon"><i class="bx bx-file"></i></div>
             <h4><a href="">Penjualan</a></h4>
             <p>Menjual segala macam buah dan sayuran.</p>
           </div>
         </div>
-
-        <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+        <div class="col-xl-4 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
           <div class="icon-box">
-            <div class="icon"><i class="bx bx-tachometer"></i></div>
+            <div class="icon"><i class="bx bx-file"></i></div>
             <h4><a href="">Pembelian</a></h4>
             <p>Menerima segala macam buah dan sayuran berkualitas.</p>
           </div>
@@ -113,7 +105,7 @@
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
-        <h2>Meet Our Team</h2>
+        <h2 class="green">Meet Our Team</h2>
         <p>Berikut adalah jajaran eksekutif ....</p>
       </div>
 
@@ -192,12 +184,86 @@
     </div>
   </section> --><!-- End Team Section -->
 
+  <!-- ======= Images Section ======= -->
+  <section id="portfolio" class="portfolio">
+    <div class="container">
+      <div class="col-lg-12 align-items-stretch img" data-aos="zoom-in" data-aos-delay="150">&nbsp;
+        <img class="d-block w-100" src="assets/img/jgi/ourBrand.png" alt="brands" />
+      </div>
+
+      <div class="col-lg-12 align-items-stretch img" data-aos="zoom-in" data-aos-delay="150">&nbsp;
+        <img class="d-block w-100" src="assets/img/jgi/ourProducts.png" alt="products" />
+      </div>
+    </div>
+    <div class="container mt-5" data-aos="fade-up">
+      <div class="section-title">
+        <h2 class="green">Statistics</h2>
+        <div id="carouselExampleControls" class="carousel carousel-dark slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="assets/img/jgi/statistic1.png" class="d-block w-100" alt="fruit consumption">
+            </div>
+            <div class="carousel-item">
+              <img src="assets/img/jgi/statistic2.png" class="d-block w-100" alt="indonesian fruit market">
+            </div>
+            <div class="carousel-item">
+              <img src="assets/img/jgi/statistic3.png" class="d-block w-100" alt="business opportunity">
+            </div>
+            <div class="carousel-item">
+              <img src="assets/img/jgi/statistic4.png" class="d-block w-100" alt="business opportunity">
+            </div>
+            <div class="carousel-item">
+              <img src="assets/img/jgi/statistic5.png" class="d-block w-100" alt="business opportunity">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="container mt-5" data-aos="fade-up">
+      <div class="section-title">
+        <h2 class="green">In The Field</h2>
+        <div id="carouselExampleControls2" class="carousel carousel-dark slide" data-bs-ride="carousel2">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="assets/img/jgi/fields1.png" class="d-block w-100" alt="fruit consumption">
+            </div>
+            <div class="carousel-item">
+              <img src="assets/img/jgi/fields2.png" class="d-block w-100" alt="indonesian fruit market">
+            </div>
+            <div class="carousel-item">
+              <img src="assets/img/jgi/fields3.png" class="d-block w-100" alt="business opportunity">
+            </div>
+            <div class="carousel-item">
+              <img src="assets/img/jgi/fields4.png" class="d-block w-100" alt="business opportunity">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls2" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- ======= Contact Section ======= -->
   <section id="contact" class="contact">
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
-        <h2>Contact</h2>
+        <h2 class="green">Contact</h2>
 
         <div class="row">
 
@@ -207,7 +273,7 @@
                 <i class="bi bi-geo-alt"></i>
                 <h4 style="text-align: left; margin:0">Location:</h4><br />
                 <P>
-                Jl. Pahlawan Sunaryo No.168 Dsn. Tudan RT. 001 RW. 008 Kab. Pasuruan, Jawa Timur 67156
+                  Jl. Pahlawan Sunaryo No.168, Tudan, Kemiri Sewu, Kec. Pandaan, Pasuruan, Jawa Timur 67156
                 </P>
               </div>
 
@@ -226,10 +292,8 @@
 
             <div class="col-lg-7 d-flex align-items-stretch">
               <div class="info">
-                <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3954.428244614642!2d112.7158630147772!3d-7.637009994493733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zN8KwMzgnMTMuMiJTIDExMsKwNDMnMDUuMCJF!5e0!3m2!1sen!2sid!4v1681452999594!5m2!1sen!2sid"
-                  width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                  referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15817.714344188964!2d112.7180237!3d-7.6369731!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7db3405081b41%3A0x466bc2efd39afe35!2sPT%20JAVANESIA%20GEMILANG%20INDONESIA!5e0!3m2!1sen!2sid!4v1701566854035!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
               </div>
             </div>
 

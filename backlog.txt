@@ -1,0 +1,11 @@
+ganti font color title jadi hijau (seperti title article)
+background color head & visi misi jadi hijau (seperti title article)
+background image visi misi jadi Cold Storage (google it)
+seluruh title / misc logo warna biru jadi hijau
+font title ganti Times New Roman
+services logo jadi note (home/services/freshfruit)
+tambahkan email dan nomor hp ke Contact
+
+additional:
+Gemilang theme kuning
+background image visi misi jadi sawah

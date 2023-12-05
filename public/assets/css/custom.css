@@ -2,3 +2,21 @@ p {
     text-align: justify;
     text-justify: inter-word;
 }
+
+#hero {
+    background: #614894
+}
+
+#hero h1.green{
+    color: #7b9448;
+}
+
+.cta {
+    background: linear-gradient(rgba(74, 90, 43, 0.9), rgba(74, 90, 43, 0.9)), url("../img/cta-javanesia.webp") fixed center center;
+    background-size: cover;
+    padding: 120px 0;
+}
+
+.section-title h2.green {
+    color: #4A5A2B;
+}

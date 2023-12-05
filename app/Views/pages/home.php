@@ -1,33 +1,33 @@
 <?= $this->extend('templates/layout'); ?>
 
-    <?= $this->section('content'); ?>
+<?= $this->section('content'); ?>
 
-        <!-- ======= Hero Section ======= -->
-        <section id="hero" class="d-flex align-items-center">
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex align-items-center">
 
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-                        <h1>GLOBAL ARTHA SENTOSA</h1>
-                        <h2>Holding Company </h2>
-                        <div class="d-flex justify-content-center justify-content-lg-start">
-                            <a href="#about" class="btn-get-started scrollto">Get Started</a>
-                            <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
-                        </div>
-                    </div>
-                    <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-                        <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
-                    </div>
-                </div>
-            </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+        <h1>GLOBAL FLINGROUP</h1>
+        <h2>Holding Company </h2>
+        <div class="d-flex justify-content-center justify-content-lg-start">
+          <a href="#about" class="btn-get-started scrollto">Get Started</a>
+          <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
+        </div>
+      </div>
+      <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
+        <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+      </div>
+    </div>
+  </div>
 
-        </section>
-        <!-- End Hero -->
+</section>
+<!-- End Hero -->
 
-        <main id="main">
+<main id="main">
 
-            <!-- ======= Clients Section ======= -->
-            <!-- <section id="clients" class="clients section-bg">
+  <!-- ======= Clients Section ======= -->
+  <!-- <section id="clients" class="clients section-bg">
       <div class="container">
 
         <div class="row" data-aos="zoom-in">
@@ -60,190 +60,228 @@
 
       </div>
     </section> -->
-            <!-- End Cliens Section -->
+  <!-- End Cliens Section -->
 
-            <!-- ======= About Us Section ======= -->
-            <section id="about" class="about">
-                <div class="container" data-aos="fade-up">
+  <!-- ======= About Us Section ======= -->
+  <section id="about" class="about">
+    <div class="container" data-aos="fade-up">
 
-                    <div class="section-title">
-                        <h2>About Us</h2>
-                    </div>
+      <div class="section-title">
+        <h2>About Us</h2>
+      </div>
 
-                    <div class="row content">
-                        <div class="col-lg-6">
-                            <p>
-                                Berdiri sejak tahun 2017. Bergerak di bidang:
-                            </p>
-                            <ul>
-                                <li><i class="ri-check-double-line"></i> Business Development & Management</li>
-                                <li><i class="ri-check-double-line"></i> Agrikultur Buah & Sayuran</li>
-                                <li><i class="ri-check-double-line"></i> Distribusi Buah & Sayuran</li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-6 pt-4 pt-lg-0">
-                            <p> Global Artha Sentosa adalah sebuah perusahaan Indonesia yang berkedudukan di Surabaya, Jawa Timur. Global Artha Sentosa merupakan Holding Company yang menyediakan jasa dalam mengembangkan dan mengelola usaha terutama di bagian
-                                administrasi dan management. Perusahaan tersebut telah mengelola administrasi dan management perusahaan Gemilang Alam Sadana yang bergerak di bidang agrikultur buah dan sayuran sejak tahun 2020 dan mengembangkan perusahaan
-                                Javanesia Gemilang Indonesia bersama dengan perusahaan Javanesia Freshtama Indonesia yang bergerak di bidang distribusi buah dan sayuran sejak tahun 2023.
-                            </p>
-                        </div>
-                    </div>
+      <div class="row content">
+        <div class="col-lg-6">
+          <p>
+            Berdiri sejak tahun 2017. Bergerak di bidang:
+          </p>
+          <ul>
+            <li><i class="ri-check-double-line"></i> Business Development & Management</li>
+            <li><i class="ri-check-double-line"></i> Agriculture & Plantation</li>
+            <li><i class="ri-check-double-line"></i> Freshfruit Distribution</li>
+          </ul>
+        </div>
+        <div class="col-lg-6 pt-4 pt-lg-0">
+          <p>
+            GLOBAL FLINGROUP adalah sebuah Holding Company dari Indonesia yang berkedudukan di Surabaya, Jawa Timur
+            yang bergerak di bidang pengembangan dan pengelolaan usaha terutama di bagian sistem management.
+            Perusahaan tersebut telah mengelola sistem management perusahaan GEMILANG ALAM SADANA yang bergerak di bidang agrikultur
+            & budidaya buah sejak tahun 2020 dan mengembangkan perusahaan JAVANESIA GEMILANG INDONESIA bersama dengan perusahaan
+            JAVANESIA FRESHTAMA INDONESIA yang bergerak di bidang distribusi buah sejak tahun 2023.
+          </p>
+        </div>
+      </div>
 
-                </div>
+    </div>
 
-                <!-- ======= Cta Section ======= -->
-                <section id="skills" class="skills">
-                    <div class="cta">
-                        <div class="container" data-aos="zoom-in">
+    <!-- ======= Cta Section ======= -->
+    <section id="skills" class="skills">
+      <div class="cta">
+        <div class="container" data-aos="zoom-in">
 
-                            <div class="row">
-                                <div class="col-lg-9 text-center text-lg-start">
-                                    <h3>VISION</h3>
-                                    <p> Mengembangkan dan mengelola segala usaha yang berada di naungan Global Artha Sentosa untuk memiliki administrasi dan management yang terdepan dengan fondasi internal yang kokoh dan hubungan eksternal terpercaya. </p>
-                                    <h3>MISSION</h3>
-                                    <p>
-                                        Menjadikan Global Artha Sentosa sebagai pegangan segala perusahaan yang dapat dijamin untuk membangun dan menjaga berjalannya administrasi dan management perusahaan dengan sistem yang mudah dimengerti, berkualitas, dan terlindungi.
-                                    </p>
-                                </div>
-                                <div class="col-lg-3 cta-btn-container text-center">
-                                </div>
-                            </div>
+          <div class="row">
+            <div class="col-lg-9 text-center text-lg-start">
+              <h3>VISION</h3>
+              <p>
+                Mengembangkan dan mengelola segala usaha yang berada di naungan GLOBAL FLINGROUP
+                untuk memiliki system management yang terdepan dengan fondasi internal yang kokoh dan
+                hubungan eksternal terpercaya.
+              </p>
+              <h3>MISSION</h3>
+              <p>
+                Menjadikan GLOBAL FLINGROUP sebagai pegangan segala perusahaan yang dapat dijamin untuk membangun dan menjaga
+                berjalannya system management perusahaan yang mudah dimengerti, berkualitas, dan terlindungi.
+              </p>
+            </div>
+            <div class="col-lg-3 cta-btn-container text-center">
+            </div>
+          </div>
 
-                        </div>
-                </section>
-                <!-- End Cta Section -->
+        </div>
+    </section>
+    <!-- End Cta Section -->
 
-                <!-- ======= Plantation ======= -->
-                <div class="why-us section-bg">
-                    <div class="container-fluid" data-aos="fade-up">
+    <!-- ======= Plantation ======= -->
+    <div class="why-us section-bg">
+      <div class="container-fluid" data-aos="fade-up">
 
-                        <div class="row">
+        <div class="row">
 
-                            <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
+          <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
-                                <div class="content">
-                                    <h3>GEMILANG ALAM SADANA <br/>
-                                        <strong>Agriculture & Plantation Company</strong></h3>
-                                    <p>
-                                        Merupakan perusahaan yang menyediakan jasa dalam penanaman dan pengolahan segala macam buah dan sayuran.
-                                    </p><br/>
-                                </div>
+            <div class="content">
+              <h3>GEMILANG ALAM SADANA <br />
+                <strong>Agriculture & Plantation Company</strong>
+              </h3>
+              <p>
+                Merupakan perusahaan yang bergerak di bidang penanaman dan pembudidayaan 
+                berbagai macam buah.              
+              </p>
+              <br />
+            </div>
 
-                                <div class="accordion-list">
-                                    <ul>
-                                        <li>
-                                            <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> HISTORY <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                                            <div id="accordion-list-1" class="collapse" data-bs-parent=".accordion-list">
-                                                <p>
-                                                    Berdiri sejak 2020. Gemilang Alam Sadana adalah sebuah perusahaan Indonesia dengan kantor utama berkedudukan di Surabaya, Jawa Timur. Perusahaan tersebut beroperasional di Buleleng, Bali dimana telah menanam dan mengelola segala macam buah dan sayuran.
-                                                </p>
-                                            </div>
-                                        </li>
+            <div class="accordion-list">
+              <ul>
+                <li>
+                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> HISTORY <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-1" class="collapse" data-bs-parent=".accordion-list">
+                    <p>
+                      Berdiri sejak 2020. GEMILANG ALAM SADANA adalah sebuah perusahaan Indonesia 
+                      dengan kantor utama berkedudukan di Surabaya, Jawa Timur. 
+                      Perusahaan tersebut beroperasional di Buleleng, Bali dimana telah menanam dan 
+                      mengelola berbagai macam buah.
+                    </p>
+                  </div>
+                </li>
 
-                                        <li>
-                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> VISION & MISSION <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                                            <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
-                                                <br/>
-                                                <h4>VISION</h4>
-                                                <p>
-                                                    Menanam dan mengelola segala macam buah dan sayuran berkualitas dengan fondasi internal yang kokoh dan hubungan eksternal terpercaya.
-                                                </p><br/>
-                                                <h4>MISSION</h4>
-                                                <p>
-                                                    Menjadikan Gemilang Alam Sadana sebagai pegangan pasar buah dan sayuran yang dapat dijamin untuk menyediakan buah dan sayuran yang berkuantitas dan berkualitas.
-                                                </p>
-                                            </div>
-                                        </li>
+                <li>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> VISION & MISSION <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
+                    <br />
+                    <h4>VISION</h4>
+                    <p>
+                      Menanam dan mengelola segala macam buah yang berkualitas dengan fondasi internal
+                      yang kokoh dan hubungan eksternal terpercaya.
+                    </p>
+                    <br />
+                    <h4>MISSION</h4>
+                    <p>
+                      Menjadikan GEMILANG ALAM SADANA sebagai pegangan pasar buah yang dapat 
+                      dijamin untuk menyediakan buah yang berkuantitas dan berkualitas.
+                    </p>
+                  </div>
+                </li>
 
-                                        <li>
-                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> SERVICES<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                                            <div id="accordion-list-3" class="collapse row content" data-bs-parent=".accordion-list">
-                                                <ul>
-                                                    <li style='list-style-type: square; padding:5px'><p>Menyediakan jasa dalam menanam dan mengelola segala macam buah dan sayuran.</p></li>
-                                                    <li style='list-style-type: square; padding:5px'><p>Menjual segala macam buah dan sayuran.</p></li>
-                                                    <li style='list-style-type: square; padding:5px'><p>Menerima bibit dan bahan berkualitas.</p></li>
-                                                </ul>
-                                            </div>
-                                        </li>
+                <li>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> SERVICES<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-3" class="collapse row content" data-bs-parent=".accordion-list">
+                    <ul>
+                      <li style='list-style-type: square; padding:5px'>
+                        <p>Mencari & menerima mitra kerja untuk bergerak bersama di bidang penanaman & pembudidayaan berbagai macam buah.</p>
+                      </li>
+                      <li style='list-style-type: square; padding:5px'>
+                        <p>Menjual segala macam buah berkualitas.</p>
+                      </li>
+                      <li style='list-style-type: square; padding:5px'>
+                        <p>Menerima bibit dan bahan berkualitas.</p>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
 
-                                    </ul>
-                                </div>
+              </ul>
+            </div>
 
-                            </div>
+          </div>
 
-                            <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("assets/img/cavendis.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
-                        </div>
+          <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" 
+          style='background-image: url("assets/img/cavendis.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;
+          </div>
+        </div>
 
-                    </div>
+      </div>
 
-                    <!-- ======= Distribution  ======= -->
-                    <div class="container-fluid" data-aos="fade-up">
+      <!-- ======= Distribution  ======= -->
+      <div class="container-fluid" data-aos="fade-up">
 
-                        <div class="row">
-                            <div class="col-lg-5 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                                <img src="assets/img/cold-storage.png" class="img-fluid" alt="">
-                            </div>
+        <div class="row">
+          <div class="col-lg-5 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
+            <img src="assets/img/cold-storage.png" class="img-fluid" alt="">
+          </div>
 
-                            <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
+          <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
-                                <div class="content">
-                                    <h3>JAVANESIA GEMILANG INDONESIA <br/>
-                                        <strong>Fresh Fruit Distribution Company</strong></h3>
-                                    <p>
-                                        Merupakan perusahaan yang menyediakan jasa dalam pengelolaan gudang distribusi segala macam buah dan sayuran.
-                                    </p><br>
-                                </div>
+            <div class="content">
+              <h3>JAVANESIA GEMILANG INDONESIA <br />
+                <strong>Fresh Fruit Distribution Company</strong>
+              </h3>
+              <p>
+                Merupakan perusahaan yang bergerak di bidang pengelolaan distribusi berbagai macam buah.
+              </p>
+              <br>
+            </div>
 
-                                <div class="accordion-list list-2">
-                                    <ul style="margin-left:-25px">
-                                        <li>
-                                            <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-a1"><span>01</span> HISTORY <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                                            <div id="accordion-list-a1" class="collapse" data-bs-parent=".list-2">
-                                                <p>
-                                                    Berdiri sejak 2023. Javanesia Gemilang Indonesia adalah sebuah perusahaan yang berkedudukan di Pasuruan, Jawa Timur. Perusahaan tersebut merupakan perpaduan kerjasama antara Gemilang Alam Sadana dan Javanesia Freshtama Indonesia untuk mengelola gudang
-                                                    distribusi buah dan sayuran dengan maksud untuk membangun dan memegang pasar buah dan sayuran Indonesia Timur.
-                                                </p>
-                                            </div>
-                                        </li>
+            <div class="accordion-list list-2">
+              <ul style="margin-left:-25px">
+                <li>
+                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-a1"><span>01</span> HISTORY <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-a1" class="collapse" data-bs-parent=".list-2">
+                    <p>
+                      Berdiri sejak 2023. JAVANESIA GEMILANG INDONESIA adalah sebuah perusahaan yang berkedudukan di Pasuruan, 
+                      Jawa Timur. Perusahaan tersebut merupakan perpaduan kerjasama antara GEMILANG ALAM SADANA & 
+                      JAVANESIA FRESHTAMA INDONESIA untuk mengelola distribusi buah dengan maksud untuk membangun 
+                      dan memegang pasar buah Indonesia Timur & Internasional.
+                    </p>
+                  </div>
+                </li>
 
-                                        <li>
-                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-a2" class="collapsed"><span>02</span> VISION & MISSION <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                                            <div id="accordion-list-a2" class="collapse" data-bs-parent=".list-2">
-                                                <br>
-                                                <h4>VISION</h4>
-                                                <p>
-                                                    Mengelola gudang - gudang distribusi buah dan sayuran dan membangun serta memegang pasar buah dan sayuran yang berkualitas dengan fondasi internal yang kokoh dan hubungan eksternal terpercaya.
-                                                </p><br/>
-                                                <h4>MISSION</h4>
-                                                <p>Menjadikan Javanesia Gemilang Indonesia sebagai pengelola gudang distribusi buah dan sayuran terpercaya dan membangun serta memegang pasar buah dan sayuran berkualitas.
-                                                </p>
-                                            </div>
-                                        </li>
+                <li>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-a2" class="collapsed"><span>02</span> VISION & MISSION <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-a2" class="collapse" data-bs-parent=".list-2">
+                    <br>
+                    <h4>VISION</h4>
+                    <p>
+                      Mengelola distribusi buah dan membangun serta memegang pasar buah 
+                      yang berkualitas dengan fondasi internal yang kokoh dan hubungan eksternal terpercaya.                    </p><br />
+                    <h4>MISSION</h4>
+                    <p>
+                      Menjadikan JAVANESIA GEMILANG INDONESIA sebagai pengelola distribusi buah terpercaya 
+                      dan membangun serta memegang pasar buah berkualitas.
+                    </p>
+                  </div>
+                </li>
 
-                                        <li>
-                                            <a data-bs-toggle="collapse" data-bs-target="#accordion-list-a3" class="collapsed"><span>03</span> SERVICES<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                                            <div id="accordion-list-a3" class="collapse" data-bs-parent=".list-2">
-                                                <br>
-                                                <ul style="margin-left:15px">
-                                                    <li style='list-style-type: square; padding:5px'><p>Menyediakan jasa dalam mengelola gudang distribusi buah dan sayuran.</p></li>
-                                                    <li style='list-style-type: square; padding:5px'><p>Menjual segala macam buah dan sayuran.</p></li>
-                                                    <li style='list-style-type: square; padding:5px'><p>Menerima segala macam buah dan sayuran berkualitas.</p></li>
-                                                </ul>
-                                            </div>
-                                        </li>
+                <li>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-a3" class="collapsed"><span>03</span> SERVICES<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-a3" class="collapse" data-bs-parent=".list-2">
+                    <br>
+                    <ul style="margin-left:15px">
+                      <li style='list-style-type: square; padding:5px'>
+                        <p>Mencari & menerima mitra kerja untuk bergerak bersama di bidang pembangunan 
+                          & pengelolaan distribusi buah dan sayuran.</p>
+                      </li>
+                      <li style='list-style-type: square; padding:5px'>
+                        <p>Menjual segala macam buah berkualitas.</p>
+                      </li>
+                      <li style='list-style-type: square; padding:5px'>
+                        <p>Menerima segala macam buah berkualitas.</p>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
 
-                                    </ul>
-                                </div>
+              </ul>
+            </div>
 
-                            </div>
+          </div>
 
-                        </div>
+        </div>
 
-                    </div>
+      </div>
 
 
 
-                    <!-- ======= Skills Section ======= 
+      <!-- ======= Skills Section ======= 
     <section id="skills" class="skills">
       <div class="container" data-aos="fade-up">
 
@@ -295,52 +333,60 @@
 
       </div>
     </section>-->
-                    <!-- End Skills Section -->
+      <!-- End Skills Section -->
 
 
 
-                    <!-- ======= Services Section ======= -->
-                    <section id="services" class="services section-bg">
-                        <div class="container" data-aos="fade-up">
+      <!-- ======= Services Section ======= -->
+      <section id="services" class="services section-bg">
+        <div class="container" data-aos="fade-up">
 
-                            <div class="section-title">
-                                <h2>SERVICES</h2>
-                            </div>
+          <div class="section-title">
+            <h2>SERVICES</h2>
+          </div>
 
-                            <div class="row">
-                                <div class="col-xl-4 col-md-12 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-                                    <div class="icon-box">
-                                        <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                                        <h4><a href="">Business Development & Management</a></h4>
-                                        <p>Menyediakan jasa dalam mengembangkan dan mengelola administrasi dan management perusahaan</p>
-                                    </div>
-                                </div>
+          <div class="row">
+            <div class="col-xl-4 col-md-12 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+              <div class="icon-box">
+                <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                <h4><a href="">Business Development & Management</a></h4>
+                <p>
+                  Menyediakan jasa dalam mengembangkan dan mengelola sistem management perusahaan
+                </p>
+              </div>
+            </div>
 
-                                <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-                                    <div class="icon-box">
-                                        <div class="icon"><i class="bx bx-tachometer"></i></div>
-                                        <h4><a href="">Agrikultur Buah & Sayuran</a></h4>
-                                        <p>Menyediakan jasa dalam menanam dan mengelola segala macam buah dan sayuran</p>
-                                    </div>
-                                </div>
+            <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+              <div class="icon-box">
+                <div class="icon"><i class="bx bx-tachometer"></i></div>
+                <h4><a href="">Agriculture & Plantation</a></h4>
+                <p>
+                  Mencari & menerima mitra kerja untuk bergerak bersama di bidang penanaman 
+                  & pembudidayaan berbagai macam buah.
+                </p>
+              </div>
+            </div>
 
-                                <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-                                    <div class="icon-box">
-                                        <div class="icon"><i class="bx bx-file"></i></div>
-                                        <h4><a href="">Distribusi Buah & Sayuran</a></h4>
-                                        <p>Menyediakan jasa dalam mengelola gudang distribusi buah dan sayuran</p>
-                                    </div>
-                                </div>
+            <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+              <div class="icon-box">
+                <div class="icon"><i class="bx bx-file"></i></div>
+                <h4><a href="">Freshfruit Distribution</a></h4>
+                <p>
+                  Mencari & menerima mitra kerja untuk bergerak bersama di bidang pembangunan & pengelolaan 
+                  distribusi buah dan sayuran.
+                </p>
+              </div>
+            </div>
 
-                            </div>
+          </div>
 
-                        </div>
-                    </section>
-                    <!-- End Services Section -->
+        </div>
+      </section>
+      <!-- End Services Section -->
 
 
 
-                    <!-- ======= Portfolio Section ======= 
+      <!-- ======= Portfolio Section ======= 
     <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
 
@@ -452,10 +498,10 @@
 
       </div>
     </section>-->
-                    <!-- End Portfolio Section -->
+      <!-- End Portfolio Section -->
 
-                    <!-- ======= Team Section ======= -->
-                    <!-- <section id="team" class="team section-bg">
+      <!-- ======= Team Section ======= -->
+      <!-- <section id="team" class="team section-bg">
                         <div class="container" data-aos="fade-up">
 
                             <div class="section-title">
@@ -537,9 +583,9 @@
 
                         </div>
                     </section> -->
-                    <!-- End Team Section -->
+      <!-- End Team Section -->
 
-                    <!-- ======= Pricing Section ======= 
+      <!-- ======= Pricing Section ======= 
     <section id="pricing" class="pricing">
       <div class="container" data-aos="fade-up">
 
@@ -599,9 +645,9 @@
 
       </div>
     </section>-->
-                    <!-- End Pricing Section -->
+      <!-- End Pricing Section -->
 
-                    <!-- ======= Frequently Asked Questions Section =======
+      <!-- ======= Frequently Asked Questions Section =======
     <section id="faq" class="faq section-bg">
       <div class="container" data-aos="fade-up">
 
@@ -662,52 +708,51 @@
 
       </div>
     </section>-->
-                    <!-- End Frequently Asked Questions Section -->
+      <!-- End Frequently Asked Questions Section -->
 
-                    <!-- ======= Contact Section ======= -->
-                    <section id="contact" class="contact">
-                        <div class="container" data-aos="fade-up">
+      <!-- ======= Contact Section ======= -->
+      <section id="contact" class="contact">
+        <div class="container" data-aos="fade-up">
 
-                            <div class="section-title">
-                                <h2>Contact</h2>
-                            </div>
+          <div class="section-title">
+            <h2>Contact</h2>
+          </div>
 
-                            <div class="row">
+          <div class="row">
 
-                                <div class="col-lg-12 d-flex align-items-stretch">
-                                    <div class="info">
-                                        <div class="address">
-                                            <i class="bi bi-geo-alt"></i>
-                                            <h4>Location:</h4>
-                                            <p>Jl. Slamet no. 8, Ketabang, Genteng, Surabaya, Jawa Timur 60272</p>
-                                        </div>
+            <div class="col-lg-12 d-flex align-items-stretch">
+              <div class="info">
+                <div class="address">
+                  <i class="bi bi-geo-alt"></i>
+                  <h4>Location:</h4>
+                  <p>Jl. Slamet no. 8, Ketabang, Genteng, Surabaya, Jawa Timur 60272</p>
+                </div>
 
-                                        <div class="email">
-                                            <i class="bi bi-envelope"></i>
-                                            <h4>Email:</h4>
-                                            <p>
-                                                global@flingroup.com
-                                            </p>
-                                        </div>
+                <div class="email">
+                  <i class="bi bi-envelope"></i>
+                  <h4>Email:</h4>
+                  <p>
+                    global@flingroup.com
+                  </p>
+                </div>
 
-                                        <div class="phone">
-                                            <i class="bi bi-phone"></i>
-                                            <h4>Phone:</h4>
-                                            <p>+62 817-9323-323</p>
-                                        </div>
-                                    </div>
+                <div class="phone">
+                  <i class="bi bi-phone"></i>
+                  <h4>Phone:</h4>
+                  <p>+62 817-9323-323</p>
+                </div>
+              </div>
 
-                                    <div class="col-lg-7 d-flex align-items-stretch">
-                                        <div class="info">
-                                            <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3957.8365729016864!2d112.74785821477488!3d-7.259432894759934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zN8KwMTUnMzQuMCJTIDExMsKwNDUnMDAuMiJF!5e0!3m2!1sen!2sid!4v1681532206417!5m2!1sen!2sid"
-                                                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                        </div>
-                                    </div>
-
+              <div class="col-lg-7 d-flex align-items-stretch">
+                <div class="info">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3957.8365729016864!2d112.74785821477488!3d-7.259432894759934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zN8KwMTUnMzQuMCJTIDExMsKwNDUnMDAuMiJF!5e0!3m2!1sen!2sid!4v1681532206417!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+              </div>
 
 
 
-                                    <!-- <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+
+              <!-- <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
@@ -736,13 +781,13 @@
             </form>
           </div> -->
 
-                                </div>
+            </div>
 
-                            </div>
-                    </section>
-                    <!-- End Contact Section -->
+          </div>
+      </section>
+      <!-- End Contact Section -->
 
-        </main>
-        <!-- End #main -->
+</main>
+<!-- End #main -->
 
-        <?= $this->EndSection(); ?>
+<?= $this->EndSection(); ?>

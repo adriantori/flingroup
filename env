@@ -20,9 +20,9 @@ CI_ENVIRONMENT = development
 # APP
 #--------------------------------------------------------------------
 
-# app.baseURL = ''
+#app.baseURL = 'flingroup.com'
 # If you have trouble with `.`, you could also use `_`.
-# app_baseURL = ''
+#app_baseURL = 'flingroup.com'
 # app.forceGlobalSecureRequests = false
 # app.CSPEnabled = false
 
